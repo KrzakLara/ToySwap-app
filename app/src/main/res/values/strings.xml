@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ToySwap</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="send">Send</string>
+    <string name="picture">Picture</string>
+    <string name="toyswap">ToySwap</string>
+    <string name="toyswapapp">ToySwap</string>
+    <string name="cvv">CVV</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="credit_card_number">Credit Card Number</string>
+    <string name="payment_amount">Payment Amount</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="name">Name</string>
+    <string name="i_m_a_mom_who_sells_my_sons_toys">I\'m a mom who sells my sons toys.</string>
+    <string name="email_icon">Email icon</string>
+    <string name="marie_example_com">marie@example.com</string>
+    <string name="_555_555_5555">555-555-5555</string>
+    <string name="product_title">medo</string>
+    <string name="product_image">Product image</string>
+    <string name="product_description_goes_here">mali medo.</string>
+    <string name="_9_99">4.00€</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="register">Register</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="Start">start</string>
+    <string name="Next">next</string>
+    <string name="back">back</string>
+    <string name="payment">Payment</string>
+    <string name="price">price</string>
+    <string name="quantity">quantity</string>
+    <string name="buyNow">" Buy now"</string>
+    <string name="buy_now">Buy now</string>
+    <string name="buy_Now">Buy now</string>
+    <string name="profile">Profile</string>
+    <string name="my_profile">My profile</string>
+    <string name="price_format">%.2f €</string>
+    <string name="formatted_tags">%s</string>
+    <string name="phone_icon">Phone icon</string>
+    <string name="next">Next</string>
+
+</resources>
